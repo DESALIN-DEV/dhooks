@@ -181,7 +181,6 @@ You can find the full API reference [here](https://dhooks.readthedocs.io).
 ## License
 This project is licensed under MIT.
 
-## Contributing
-Feel free to contribute to this project, a helping hand is always appreciated.
+## My discord server
 
 [Join our discord server](https://discord.gg/3Jh55Hf).
