@@ -184,4 +184,4 @@ This project is licensed under MIT.
 ## Contributing
 Feel free to contribute to this project, a helping hand is always appreciated.
 
-[Join our discord server](https://discord.gg/etJNHCQ).
+[Join our discord server](https://discord.gg/3Jh55Hf).
